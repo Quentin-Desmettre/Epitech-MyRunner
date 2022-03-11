@@ -4,7 +4,7 @@
 
 ## Installation
 
-Before installing this project, make sure [CSFML](https://www.sfml-dev.org/download/csfml/index.php) is installed, and that you run on windows.
+Before installing this project, make sure [CSFML](https://www.sfml-dev.org/download/csfml/index.php) is installed, and that you run your computer on linux.
 
 ```bash
 # clone the repo
