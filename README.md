@@ -2,23 +2,19 @@
 
 2nd Epitech Graphical project. The goal was to build a simple runner-type video game.
 
-## Installation
+## Dependencies
 
-Before installing this project, make sure [CSFML](https://www.sfml-dev.org/download/csfml/index.php) is installed, and that you run your computer on linux.
+- [GCC](https://gcc.gnu.org/install/)
+- Make ([Linux](https://askubuntu.com/questions/161104/how-do-i-install-make), [Windows](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows))
+- [CSFML](https://www.sfml-dev.org/download/csfml/)
+
+## Build
 
 ```bash
-# clone the repo
-git clone https://github.com/Quentin-Desmettre/epitech-my_runner.git
+make
 ```
 
-## Usage
-
+## Run
 ```bash
-cd epitech-my_runner
-
-# build the program
-make
-
-# launch
 ./my_runner
 ```
